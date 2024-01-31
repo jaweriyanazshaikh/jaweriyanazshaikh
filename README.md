@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jaweriyanazshaikh
-
+- 👋 Hi, I’m Shaikh Jaweriya Naz
+  
 - 👀 I’m interested in data analysis and related fields.
 
 - 🌱 I’m currently learning data analysis skills through a dedicated course.
